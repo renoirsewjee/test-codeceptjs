@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/renoirsewjee/test-codeceptjs#readme",
   "devDependencies": {
-    "codeceptjs": "^2.6.10",
+    "codeceptjs": "^3.0.0",
     "playwright": "^1.3.0"
   }
 }
